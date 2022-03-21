@@ -1,7 +1,6 @@
 ### Olá! Eu sou Felipe Bellini
 
 - 🌱 Estou estudando Flutter.
-- 😄 Pronomes: ele, dele.
 - 📫 Entre em contato comigo por felipe.bellini@fablabtec.com.br
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeKing&theme=github_dark)-->
