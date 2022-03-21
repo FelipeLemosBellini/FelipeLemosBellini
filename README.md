@@ -9,12 +9,13 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeKing&bg_color=000000&border_radius=10&border_color=eefc68&text_color=FFFFFF&icon_color=eefc68&title_color=fff700)
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="30" height="30"/>
+
+-
+<a href="https://www.linkedin.com/in/felipe-bellini-93bb451a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <!--
 
 https://www.youtube.com/watch?v=TsaLQAetPLU&ab_channel=RafaellaBallerini
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeKing&theme=radical&bg_color=DEG,#fbff00,#00d9ff)
-https://www.youtube.com/watch?v=oX7IyjHBhy0&ab_channel=CuriousGrids
 **FelipeKing/FelipeKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -29,4 +30,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 for more icons: https://emojipedia.org/
+https://devicon.dev/
 -->
