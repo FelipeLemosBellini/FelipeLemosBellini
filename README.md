@@ -2,7 +2,7 @@
 
 - 🌱 Estou estudando Flutter.
 - 🔭 Trabalho na empresa Krykto como desenvolvedor Front-End Flutter.
-- 📫 Entre em contato comigo por felipe.bellini@krykto.com.br
+- 📫 Entre em contato comigo por felipelemosbellini@gmail.com
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeKing&theme=github_dark)-->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeKing&bg_color=000000&show_icons=true&title_color=fff700&border_radius=10&border_color=eefc68&text_color=FFFFFF&icon_color=eefc68)
