@@ -1,7 +1,7 @@
 ### Olá! Eu sou Felipe Bellini
 
 - 🌱 Estou estudando Flutter.
-- 🔭 Trabalho na empresa Krykto como desenvolvedor Front-End Flutter.
+- 🔭 Trabalho na empresa Krykto como desenvolvedor Mobile Flutter.
 - 📫 Entre em contato comigo por felipelemosbellini@gmail.com
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeKing&theme=github_dark)-->
