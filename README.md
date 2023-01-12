@@ -4,11 +4,6 @@
 - 🔭 Trabalho na empresa Krykto como desenvolvedor Mobile Flutter.
 - 📫 Entre em contato comigo por felipelemosbellini@gmail.com
 
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeKing&theme=github_dark)-->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeKing&bg_color=000000&show_icons=true&title_color=fff700&border_radius=10&border_color=eefc68&text_color=FFFFFF&icon_color=eefc68)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeKing&bg_color=000000&border_radius=10&border_color=eefc68&text_color=FFFFFF&icon_color=eefc68&title_color=fff700)
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="30" height="30"/>
 
 
