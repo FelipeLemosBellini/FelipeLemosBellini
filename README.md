@@ -1,6 +1,6 @@
 ### Olá! Eu sou Felipe Bellini
 
-- 🔭 Trabalho na empresa Krykto como desenvolvedor Mobile Flutter.
+- 🔭 Trabalho na empresa Stuo como desenvolvedor Mobile Flutter.
 - 📫 Entre em contato comigo por felipelemosbellini@gmail.com
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="30" height="30"/>
