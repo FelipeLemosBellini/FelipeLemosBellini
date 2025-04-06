@@ -10,7 +10,7 @@
 
 Meus projetos principais:</br>
 <a href="https://github.com/CryptoVisorOrganization/CryptoVisorApp" target="_blank">CryptoVisor(Cotações de criptomoedas)</a>
-<a href="[https://github.com/CryptoVisorOrganization/CryptoVisorApp](https://github.com/FelipeLemosBellini/tcc_heranca)" target="_blank">TCC App Herança de Criptomoedas</a>
+<a href="https://github.com/FelipeLemosBellini/tcc_heranca" target="_blank">TCC App Herança de Criptomoedas</a>
 
 <!--
 
